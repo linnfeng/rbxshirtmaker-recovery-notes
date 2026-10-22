@@ -1,0 +1,7 @@
+site_name: Roblox Shirt Maker Recovery Notes
+site_description: Roles and limits of editable clothing projects, PNG outputs, and review references.
+docs_dir: docs
+theme:
+  name: readthedocs
+nav:
+  - Recovery notes: index.md
